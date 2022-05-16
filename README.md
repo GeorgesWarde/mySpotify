@@ -5,7 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-### `npm i axios` \It's used for the Api calls!!
+### `npm install axios` 
+Axios is used for the Apis calls.
 ### `npm start`
 
 Runs the app in the development mode.\
